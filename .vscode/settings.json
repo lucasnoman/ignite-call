@@ -1,5 +1,6 @@
 {
   "conventionalCommits.scopes": [
-    "Setup & estrutura"
+    "Setup & estrutura",
+    "Conexão com o calendário"
   ]
 }
